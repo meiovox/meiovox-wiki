@@ -7,11 +7,12 @@ export default function Home() {
       {/* Area Logo Meiovox */}
       <div className="mb-10 opacity-90 hover:opacity-100 transition-opacity duration-700">
         <Image 
-          src="/MVX_LGV26_2.webp" // Sesuaikan dengan nama file logo yang kamu gunakan
+          src="/MVX_LGV26_2.webp"
           alt="Meiovox Logo" 
           width={240} 
           height={240} 
           className="object-contain"
+          priority
         />
       </div>
 
