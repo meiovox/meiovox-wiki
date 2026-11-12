@@ -38,7 +38,7 @@ export default function Home() {
         {/* Logo */}
         <div className="mb-8">
           <Image
-            src="/MVX_LGV26_2.webp"
+            src="/MVX_LGV27_8.png"
             alt="Meiovox Logo"
             width={96}
             height={96}
